@@ -107,13 +107,25 @@ p {
   }
 
 a:link {
-  color: blue;
+  color: #298ac2;
   text-decoration: none;
 }
-
+/*
 a:visited {
   color: purple;
 }
+*/
+
+footer a {
+  color: #973633;
+  text-decoration: underline;
+}
+
+footer a:hover {
+  color: #ffffff;
+}
+
+
 
 footer {
   border-radius: 12px;
@@ -124,12 +136,14 @@ footer {
 }
 
 .rsa-flag {
-  position: relative;
-  background: #000000;
+  background-image: url(https://upload.wikimedia.org/wikipedia/commons/a/af/Flag_of_South_Africa.svg);
+  background-position: 0;
+  background-size: cover;
+  color: #ffffff;
   overflow: hidden;
 }
 
-
+/*
 .rsa-flag::before {
   content: " ";
   display: block;
@@ -145,4 +159,4 @@ footer {
   background-position: 0;
   background-size: cover;
 }
-
+*/
