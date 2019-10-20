@@ -117,7 +117,7 @@ a:hover {
 }
 
 footer a {
-  color: #113ed1;
+  color: #0000FF;
 }
 
 footer a:hover {
@@ -137,8 +137,9 @@ footer {
 #tribute-info {
   background-image: url(https://upload.wikimedia.org/wikipedia/commons/a/af/Flag_of_South_Africa.svg);
   background-position: 0;
+  background-repeat: no-repeat;
   background-size: cover;
-  border: 3px solid #d31b15;
+  border: 3px solid #FF0000;
   color: #ffffff;
   overflow: hidden;
 }
