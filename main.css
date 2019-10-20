@@ -111,11 +111,10 @@ a:link {
   color: #298ac2;
   text-decoration: none;
 }
-/*
-a:visited {
-  color: purple;
+
+a:hover {
+  color: #eb1111;
 }
-*/
 
 footer a {
   color: #5517ff;
