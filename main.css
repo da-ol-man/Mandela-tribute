@@ -95,11 +95,6 @@ img {
   margin-left: auto;
   margin-right: auto;
   max-height: 400px;
-
-  /*
-  max-width: 100%;
-  max-height: auto;
-  */
   display: block;
 }
 
@@ -145,7 +140,6 @@ footer {
   background-size: cover;
   border: 3px solid #FF0000;
   color: #ffffff;
-  overflow: hidden;
 }
 
 /*
